@@ -1,3 +1,10 @@
+
+
+
+
+![Screenshot 2024-04-23 173533](https://github.com/chaitanyaa1512/Afame-Technologies/assets/94222140/ec7fa1af-7794-4457-b537-6bfc0c796fd5)
+
+
 1) Sales Data Analysis:
 
 Goal: Utilizing sales data analysis to uncover patterns, best-selling items, and revenue indicators for informed business decision-making.
