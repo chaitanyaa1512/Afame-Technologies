@@ -31,6 +31,7 @@ Tools: Python | Power BI
 
 🔍 Project Highlights: 
 -Conducted analysis on a substantial dataset comprising 1470 rows and 35 columns.
+
 -Streamlined data by removing redundant attributes and eliminating blank entries.
 -Utilized Python for Exploratory Data Analysis (EDA), extracting actionable insights to inform business decisions.
 -Leveraged Seaborn to visualize Performance metrics and Job Satisfaction levels across Age and Gender demographics.
