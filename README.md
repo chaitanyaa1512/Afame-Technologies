@@ -45,7 +45,7 @@ Activities to Complete:
 -Look for a few more changes if necessary
 
 
-Link: 
+Link: https://github.com/chaitanyaa1512/Afame-Technologies/blob/main/HR_Data_Analysis.ipynb
 
 Tools: Python | Power BI
 
