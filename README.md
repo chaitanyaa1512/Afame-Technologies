@@ -2,6 +2,8 @@
 
 Goal: Utilizing sales data analysis to uncover patterns, best-selling items, and revenue indicators for informed business decision-making.
 
+Link: https://app.powerbi.com/view?r=eyJrIjoiNDhmYmQ4YTQtZjUzOC00ZmJjLTg0ODEtZmJlOTMyMjk3ZGJiIiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D
+
 Tools: Excel | Power BI
 
  🔍 Project Highlights:
@@ -41,6 +43,9 @@ Activities to Complete:
 -Eliminate the dataset's NaN values.
 
 -Look for a few more changes if necessary
+
+
+Link: 
 
 Tools: Python | Power BI
 
